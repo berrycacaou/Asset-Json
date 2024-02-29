@@ -1,0 +1,10 @@
+{
+    "ads": {
+        "isShowAds": true,
+        "isShowBanner": true,
+        "isShowInterstitial": true,
+        "intervalInterstitial": 0,
+        "admobBanner": "ca-app-pub-3940256099942544/2934735716",
+        "admobInterstitial": "ca-app-pub-3940256099942544/4411468910"
+    }
+}
