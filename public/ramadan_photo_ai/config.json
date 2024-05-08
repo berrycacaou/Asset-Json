@@ -3,7 +3,7 @@
         "isShowAds": true,
         "isShowBanner": false,
         "isShowInterstitial": true,
-        "intervalInterstitial": 45,
+        "intervalInterstitial": 120,
         "androidAdmobBanner": "ca-app-pub-3940256099942544/2934735716",
         "androidAdmobInterstitial": "ca-app-pub-5713616401414621/8609834711",
         "iosAdmobBanner": "ca-app-pub-8154530308895758/5160129584",
